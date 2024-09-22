@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "Exporter": {
+    "template_path": [
+      ".",
+      "/home/natalia/M\u00fasica/projeto_banco_de_dados/myenv/lib/python3.10/site-packages/jupyter_contrib_nbextensions/templates"
+    ],
+    "preprocessors": [
+      "jupyter_contrib_nbextensions.nbconvert_support.CodeFoldingPreprocessor",
+      "jupyter_contrib_nbextensions.nbconvert_support.PyMarkdownPreprocessor"
+    ]
+  }
+}
